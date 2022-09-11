@@ -1,0 +1,5 @@
+rootProject.name = 'money-transfer'
+include 'customer-ms'
+include 'account-ms'
+include 'transaction-ms'
+include 'mailsender-ms'
